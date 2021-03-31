@@ -23,7 +23,7 @@
 		<key>GROUP_NAME</key>
 		<string>%NAME%-update-smart</string>
 		<key>DESCRIPTION</key>
-		<string>Vectorworks is a versatile, on-premise application that provides extensive 2D drafting, 3D modeling, BIM and rendering capabilities for your architectural and landscape design needs.</string>
+		<string>Vectorworks provides extensive 2D drafting, 3D modeling, BIM and rendering capabilities for architectural and landscape designers.</string>
 	</dict>
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
