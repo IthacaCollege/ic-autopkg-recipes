@@ -54,8 +54,6 @@
 						<string>%GROUP_TEMPLATE%</string>
 					</dict>
 				</array>
-				<key>os_requirements</key>
-				<string>%OS_REQUIREMENTS%</string>
 				<key>pkg_path</key>
 				<string>%pathname%</string>
 				<key>policy_category</key>
