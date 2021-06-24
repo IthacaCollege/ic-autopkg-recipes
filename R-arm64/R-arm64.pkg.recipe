@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Packages the latest version of R for Apple Silicon. (Also known as "The R Project for Statistical Computing.")</string>
+	<key>Identifier</key>
+	<string>com.github.jschlimmer-ic.pkg.R-arm64</string>
+	<key>Input</key>
+	<dict>
+		<key>NAME</key>
+		<string>R</string>
+	</dict>
+	<key>MinimumVersion</key>
+	<string>0.5.0</string>
+	<key>ParentRecipe</key>
+	<string>com.github.jschlimmer-ic.download.R-arm64</string>
+	<key>Process</key>
+	<array/>
+</dict>
+</plist>
