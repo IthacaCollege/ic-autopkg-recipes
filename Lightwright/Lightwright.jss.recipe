@@ -5,7 +5,7 @@
 	<key>Description</key>
 	<string>Uses parent pkg recipe to download Lightwrite and import it to Jamf Pro</string>
 	<key>Identifier</key>
-	<string>com.github.jschlimmer-ic.jss.Lightwright</string>
+	<string>com.github.jschlimmer-ic.jss.lightwright</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>
@@ -28,7 +28,7 @@
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
 	<key>ParentRecipe</key>
-	<string>com.github.jazzace.pkg.Lightwright</string>
+	<string>com.github.jazzace.pkg.lightwright</string>
 	<key>Process</key>
 	<array>
 		<dict>
