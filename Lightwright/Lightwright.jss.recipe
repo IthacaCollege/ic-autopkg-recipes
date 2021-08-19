@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>Description</key>
-	<string>Uses parent pkg recipe to download Ableton Live and import it to Jamf Pro</string>
+	<string>Uses parent pkg recipe to download Lightwrite and import it to Jamf Pro</string>
 	<key>Identifier</key>
 	<string>com.github.jschlimmer-ic.jss.Lightwright</string>
 	<key>Input</key>
