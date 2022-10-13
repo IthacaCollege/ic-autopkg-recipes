@@ -7,16 +7,16 @@ Input:
   SOFTWARE_TITLE: '%NAME%'
   CATEGORY: Productivity
   GROUP_NAME: '%NAME%-update-smart'
-  GROUP_TEMPLATE: 'SmartGroup-update-smart.xml'
+  GROUP_TEMPLATE: 'JamfSmartGroupTemplate.xml'
   POLICY_CATEGORY: Testing
-  POLICY_TEMPLATE: 'PolicyTemplate-selfservice.xml'
+  POLICY_TEMPLATE: 'JamfPolicyTemplate.xml'
   POLICY_NAME: 'Install Latest %NAME%'
-  POLICY_RUN_COMMAND: ' '
   SELF_SERVICE_DISPLAY_NAME: 'Install Latest %NAME%'
   SELF_SERVICE_DESCRIPTION: 'Free and open source software for video recording and live streaming.'
   SELF_SERVICE_ICON: '%SOFTWARE_TITLE%.png'
   INSTALL_BUTTON_TEXT: 'Install'
   REINSTALL_BUTTON_TEXT: 'Install'
+  TESTING_GROUP_NAME: Testing
   UPDATE_PREDICATE: 'pkg_uploaded == False'
 
 Process:
