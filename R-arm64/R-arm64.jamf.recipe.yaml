@@ -12,7 +12,7 @@ Input:
   POLICY_TEMPLATE: 'JamfPolicyTemplate.xml'
   POLICY_NAME: 'Install Latest %NAME%'
   SELF_SERVICE_DISPLAY_NAME: 'Install Latest %NAME%'
-  SELF_SERVICE_DESCRIPTION: 'Free and open source software for video recording and live streaming.'
+  SELF_SERVICE_DESCRIPTION: 'R is a free software environment for statistical computing and graphics.'
   SELF_SERVICE_ICON: '%SOFTWARE_TITLE%.png'
   INSTALL_BUTTON_TEXT: 'Install'
   REINSTALL_BUTTON_TEXT: 'Install'
