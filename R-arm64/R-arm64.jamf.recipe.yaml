@@ -44,5 +44,5 @@ Input:
 
   - Processor: com.github.grahampugh.jamf-upload.processors/JamfExtensionAttributeUploader
     Arguments:
-      ea_name: '%PROD_NAME%'
+      ea_name: '%NAME% version'
       ea_script_path: 'r-arm64-ea.sh'
