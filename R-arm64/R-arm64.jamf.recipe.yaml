@@ -19,7 +19,7 @@ Input:
   TESTING_GROUP_NAME: Testing
   UPDATE_PREDICATE: 'pkg_uploaded == False'
 
-  Process:
+Process:
   - Processor: com.github.grahampugh.jamf-upload.processors/JamfCategoryUploader
     Arguments:
       category_name: '%CATEGORY%'
